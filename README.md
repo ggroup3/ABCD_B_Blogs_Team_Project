@@ -1,5 +1,10 @@
 ### README for ABCD Project
 
+Welcome to the ABCD project! It's a platform designed to showcase and manage various types of photo and media content.
+Take a look at our Home Page to explore the main features, and visit our About Us Page to learn more about the team behind this project.
+
+Home Page URL: https://photo-b.jasthi.com/index.php
+About Us Page URL: https://photo-b.jasthi.com/footerFiles/company_leadership.php
 ---
 
 ## Project Overview
