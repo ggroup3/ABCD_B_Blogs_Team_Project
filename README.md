@@ -4,7 +4,12 @@
 
 ## Project Overview
 
-The ABCD Project is a photo blogging platform designed by Team Bears. It allows users to create, manage, and explore blogs, with tailored functionalities for visitors, registered users, and administrators.
+The ABCD Project is a photo blogging platform designed by Team Bears(* [Mohamud Yusuf](https://github.com/ggroup3)
+* [Neimo Hajji](https://github.com/Naima432)
+* [Meng Vue](https://github.com/Scott8theSun)
+* [Ben Tran](https://github.com/windwalker46)
+* [Shane Schulte](https://github.com/Shane-Schulte)
+). It allows users to create, manage, and explore blogs, with tailored functionalities for visitors, registered users, and administrators.
 ---
 
 ## Features
@@ -156,3 +161,11 @@ Usage
 
 Admin sets BLOG_MODE = Video in the admin panel.
 Users create blogs by providing a YouTube link (no images allowed in this mode).
+
+## Key Contributors
+
+* [Mohamud Yusuf](https://github.com/ggroup3)
+* [Neimo Hajji](https://github.com/Naima432)
+* [Meng Vue](https://github.com/Scott8theSun)
+* [Ben Tran](https://github.com/windwalker46)
+* [Shane Schulte](https://github.com/Shane-Schulte)
